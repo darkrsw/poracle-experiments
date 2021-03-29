@@ -14,7 +14,7 @@ In this repository, we share the artifacts we used in our study. Our artifacts c
 Our Docker container image can be downloaded as follows:
 
 ```bash
-$ docker pull poracle100/poracle-reproduce:latest>
+$ docker pull poracle100/poracle-reproduce:latest
 ```
 
 Once the image is downloaded, a container can be started as follows.
